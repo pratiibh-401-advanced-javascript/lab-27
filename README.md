@@ -5,11 +5,11 @@
 ### Authors: Pratiibh Bassi
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [Netlify Deployment](http://xyz.com)
-* [AWS Amplify Deployment](http://xyz.com)
-* [S3 Deployment](http://xyz.com)
+* [submission PR](https://github.com/pratiibh-401-advanced-javascript/lab-27/pull/1)
+* [travis](https://www.travis-ci.com/pratiibh-401-advanced-javascript/lab-27)
+* [Netlify Deployment](https://focused-shaw-63e37b.netlify.com/#)
+* [AWS Amplify Deployment](https://master.d2hmaym389fonu.amplifyapp.com/#)
+* [S3 Deployment](http://lab-27-bucket.s3-website-us-west-2.amazonaws.com/)
 
 ### Modules
 #### `app.js`
